@@ -61,9 +61,9 @@
     ]
   },
   "consumes": {
-    "power": 60,
+    "power": 48,
     "liquids": [
-      "hydrogen/1.25"
+      "hydrogen/1"
     ]
   },
   "requirements": [
