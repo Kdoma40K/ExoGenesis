@@ -16,7 +16,7 @@
   "fuelItem" : "astrolite",
   "consumes": {
     "items": [
-      "astrolite/12"
+      "astrolite/2"
     ],
     "liquids": [
       "exogenesis-cold-plasma/1"
