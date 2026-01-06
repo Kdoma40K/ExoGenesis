@@ -44,9 +44,9 @@
     ]
   },
   "requirements": [
-    "silicon/600",
-    "stellar-steel/500",
-    "lead/600"
+    "silicon/60",
+    "stellar-steel/50",
+    "lead/60"
   ],
   "envRequired": 0,
   "category": "power",
