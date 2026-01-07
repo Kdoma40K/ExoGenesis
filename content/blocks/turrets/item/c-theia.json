@@ -162,12 +162,13 @@
     }
   },
   "requirements": [
-    "stellar-steel/1320",
+    "stellar-steel/320",
     "silicon/870",
-    "osmium/700",
-    "urbium/860",
-    "omega-blue/2000"
+    "osmium/500",
+    "urbium/260",
+    "omega-blue/200"
   ],
   "category": "turret",
   "research": "c-neutron-mortar"
 }
+
