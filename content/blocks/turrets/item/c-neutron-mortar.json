@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "reload": 265,
-  "range": 540,
+  "range": 800,
   "heatColor": "A9D8FFFF",
   "size": 7,
   "maxAmmo": "48",
