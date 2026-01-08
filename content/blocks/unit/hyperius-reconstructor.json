@@ -32,23 +32,23 @@
   "requirements": [
     {
       "item": "thorium",
-      "amount": 850
+      "amount": 550
     },
     {
       "item": "plastanium",
-      "amount": 680
+      "amount": 580
     },
     {
       "item": "titanium",
-      "amount": 750
+      "amount": 650
     },
     {
       "item": "silicon",
-      "amount": 1200
+      "amount": 620
     },
     {
       "item": "surge-alloy",
-      "amount": 1280
+      "amount": 280
     }
   ],
   "upgrades": [
