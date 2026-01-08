@@ -8,19 +8,19 @@
       "items": [
         {
           "item": "silicon",
-          "amount": 640
+          "amount": 240
         },
         {
           "item": "osmium",
-          "amount": 540
+          "amount": 140
         },
         {
           "item": "titanium",
-          "amount": 480
+          "amount": 180
         },
         {
           "item": "lead",
-          "amount": 250
+          "amount": 60
         }
       ]
     }
