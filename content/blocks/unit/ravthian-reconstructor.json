@@ -35,16 +35,12 @@
   },
   "requirements": [
     {
-      "item": "phase-fabric",
-      "amount": 1250
-    },
-    {
       "item": "osmium",
-      "amount": 1167
+      "amount": 267
     },
     {
       "item": "plastanium",
-      "amount": 1280
+      "amount": 500
     },
     {
       "item": "titanium",
@@ -52,11 +48,11 @@
     },
     {
       "item": "silicon",
-      "amount": 1200
+      "amount": 600
     },
     {
       "item": "surge-alloy",
-      "amount": 1280
+      "amount": 1000
     }
   ],
   "upgrades": [
