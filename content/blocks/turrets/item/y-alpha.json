@@ -173,14 +173,14 @@
     }
   },
   "requirements": [
-    "osmium/2300",
-    "thorium/3000",
-    "titanium/2750",
-    "surge-alloy/3800",
-    "alpha-yellow/2860",
-    "plastanium/1750",
-    "thorium/800",
-    "copper/3560"
+    "osmium/230",
+    "thorium/300",
+    "titanium/275",
+    "surge-alloy/380",
+    "alpha-yellow/286",
+    "plastanium/175",
+    "thorium/80",
+    "copper/356"
   ],
   "category": "turret",
   "research": "divinity-core"
